@@ -1,1 +1,13 @@
 Lecture 1 Activity
+
+Have you ever used GitHub before? 
+No
+
+Explain - in your own words - what is meant by “version control”
+Tracking and organizing changes mades on a project.
+
+Explain - in your own words - what you think is the difference between Git and GitHub.
+Git is the base software for version control while Github provides a visual interface along with online compatability for Git.
+
+Add a link to your favourite restaurant in the city that you live in. Remember, you can add links to markdown files using this syntax:
+[Kinton Ramen](https://goo.gl/maps/G4ShaMb6nz7dvzox7)
